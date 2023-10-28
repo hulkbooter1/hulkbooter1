@@ -16,8 +16,8 @@ client = UMFutures()
 print(client.time())
 
 # Constantes
-api_key_f = 'NvIJJpo8RFkAO7X5itvX4LTICG1oCPnN70SolIJsgm7vXeOqtoWC7VYyfTKqWPHs'
-api_secret_f = '06HXjVKIh8krSXMvU85P4huYVzqMtDC7bSs1eITlHmOh9ZbGq8MryJFCYjRWdiTo'
+api_key_f = ''
+api_secret_f = ''
 
 contractype = 'PERPETUAL'
 
